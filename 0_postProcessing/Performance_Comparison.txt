@@ -1,0 +1,10 @@
+SIMULATION PERFORMANCE COMPARISON
+=============================================================================================
+Simulation Name                          | Increments   | Iterations   | Wallclock Time (s)  
+---------------------------------------------------------------------------------------------
+1_Abaqus_ElementsC3D20R                  | 129          | 137          | 175                 
+1_MOOSE_ElementsC3D20R                   | 128          | 127          | 2340.20             
+2_Abaqus_ElementsC3D8                    | 129          | 141          | 49                  
+2_MOOSE_ElementsC3D8                     | 128          | 127          | 230.48              
+3_Abaqus_ElementsC3D20                   | 129          | 137          | 219                 
+3_MOOSE_ElementsC3D20                    | 128          | 127          | 3787.34             
